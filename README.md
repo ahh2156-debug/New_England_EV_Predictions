@@ -1,5 +1,5 @@
 ## Full write-up
-- [Technical write-up (PDF)](reports/Technical-Write-Up.pdf)
+- [Technical write-up (PDF)](reports/"Technical Write Up.pdf")
 - [Project purpose (PDF)](reports/Project-Purpose.pdf)
 ## Method overview
 - Trained models (Linear Regression, Decision Tree, Random Forest, Neural Net); selected Random Forest with log relation to handle skew/“charging deserts”.
