@@ -1,7 +1,3 @@
-## Quickstart
-pip install -r requirements.txt
-jupyter notebook
-# Open notebooks/00_quickstart.ipynb (or your main notebook)
 ## Full write-up
 - [Technical write-up (PDF)](reports/Technical-Write-Up.pdf)
 - [Project purpose (PDF)](reports/Project-Purpose.pdf)
